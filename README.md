@@ -14,10 +14,10 @@ I build web products end to end — schema design, API contracts, the pixel that
 
 | | |
 |---|---|
-| **Languages** | TypeScript, JavaScript, Python, SQL |
+| **Languages** | TypeScript, JavaScript, Python, Kotlin |
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Express, PostgreSQL, Redis |
-| **Infra** | Docker, AWS, GitHub Actions |
+| **Backend** | Node.js, Express, PostgreSQL, MongoDB |
+| **Infra** | GitHub Actions |
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,redis,docker,aws,git,figma&theme=light" />
@@ -40,14 +40,13 @@ I build web products end to end — schema design, API contracts, the pixel that
 
 ## Currently
 
-- **Building** — short phrase on what you're shipping right now
-- **Learning** — short phrase on what you're digging into
-- **Reading** — a book, a paper, a blog — something with a point of view
+- **Building** — Full stack e-commerce app using MERN Stack
+- **Learning** — backend development
 
 <br>
 
 <div align="center">
 
-[Portfolio](#) · [LinkedIn](#) · [Email](#)
+[Portfolio](https://www.hamzalemghari.site/) · [LinkedIn](https://www.linkedin.com/in/hamza-lemghari-dev/) · [Email](#)
 
 </div>
