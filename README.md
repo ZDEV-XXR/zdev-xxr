@@ -20,21 +20,18 @@ I build web products end to end — schema design, API contracts, the pixel that
 | **Infra** | GitHub Actions |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,redis,docker,aws,git,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,kotlin,postgres,git,figma&theme=light" />
 </div>
 
 <br>
 
 ## Selected work
 
-**[Project One](https://github.com/username/project-one)** — one-line pitch: the problem it solves, not just what it's built with.
-`TypeScript` · `Next.js` · `PostgreSQL`
+**[Project One](https://github.com/zdev-xxr/ecom-website)** — full stack app, using menn stack.
+`Node.js` · `Express.js` · `MongoDB` · `Next.js` · `Typescript`
 
-**[Project Two](https://github.com/username/project-two)** — one-line pitch.
-`Python` · `FastAPI` · `Redis`
-
-**[Project Three](https://github.com/username/project-three)** — one-line pitch.
-`React` · `Node.js` · `WebSockets`
+**[Project Two](https://github.com/zdev-xxr/Upwork-Job-Radar)** — chrome extension that notify freelancers about new posted jobs.
+`Javascript`
 
 <br>
 
