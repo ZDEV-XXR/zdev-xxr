@@ -30,7 +30,10 @@ I build web products end to end — schema design, API contracts, the pixel that
 **[Project One](https://github.com/zdev-xxr/ecom-website)** — full stack app, using menn stack.
 `Node.js` · `Express.js` · `MongoDB` · `Next.js` · `Typescript`
 
-**[Project Two](https://github.com/zdev-xxr/Upwork-Job-Radar)** — chrome extension that notify freelancers about new posted jobs.
+**[Project Two](https://github.com/zdev-xxr/InstantNews)** — Android app, shows latest news.
+`Kotlin` · `Firebase` · `Retrofit`
+
+**[Project Three](https://github.com/zdev-xxr/Upwork-Job-Radar)** — chrome extension that notify freelancers about new posted jobs.
 `Javascript`
 
 <br>
