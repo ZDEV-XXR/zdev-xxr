@@ -40,13 +40,11 @@ I build web products end to end — schema design, API contracts, the pixel that
 - **Building** :
   
 - Full stack e-commerce app using:
-<img src="https://skillicons.dev/icons?i=mongodb,expressjs,nextjs,nodejs&theme=light" />
+<img src="https://skillicons.dev/icons?i=mongodb,expressjs,nextjs,nodejs&theme=light" height="30" />
 - DoManga cross-platform mobile applications using:
-<div align="right">
-<img src="https://skillicons.dev/icons?i=mongodb,reactnative,expressjs,nodejs&theme=light" />
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,react,expressjs,nodejs&theme=light" height="30" />
 
-- **Learning** : backend development with <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript&theme=light" /> || <img src="https://skillicons.dev/icons?i=python&theme=light" /> for Data and AI
+- **Learning** : backend development with <img src="https://skillicons.dev/icons?i=python,kotlin,java,javascript&theme=light" height="30" /> || <img src="https://skillicons.dev/icons?i=python&theme=light" height="30" /> for Data and AI
 
 <br>
 
