@@ -37,8 +37,16 @@ I build web products end to end — schema design, API contracts, the pixel that
 
 ## Currently
 
-- **Building** — Full stack e-commerce app using MERN Stack
-- **Learning** — backend development
+- **Building** : 
+- Full stack e-commerce app using:
+<div align="right">
+<img src="https://skillicons.dev/icons?i=mongodb,expressjs,nextjs,nodejs&theme=light" />
+</div>
+- DoManga cross-platform mobile applications using:
+<div align="right">
+<img src="https://skillicons.dev/icons?i=mongodb,reactnative,expressjs,nodejs&theme=light" />
+</div>
+- **Learning** : backend development, python for Data and AI
 
 <br>
 
