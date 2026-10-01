@@ -17,10 +17,10 @@ I build web products end to end — schema design, API contracts, the pixel that
 | **Languages** | TypeScript, JavaScript, Python, Kotlin |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Express, PostgreSQL, MongoDB |
-| **Infra** | GitHub Actions |
+| **Infra** | GitHub Actions, vercel |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,kotlin,postgres,git,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,kotlin,postgres,git,figma,vercel&theme=light" />
 </div>
 
 <br>
