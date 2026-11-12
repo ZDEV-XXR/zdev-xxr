@@ -27,7 +27,7 @@ I build web products end to end — schema design, API contracts, the pixel that
 
 ## Selected work
 
-**[Project One](https://github.com/zdev-xxr/ecom-website)** — full stack app, using menn stack.
+**[Project One](https://github.com/zdev-xxr/Ecommerce-Microservices)** — microervices ecommerce app.
 `Node.js` · `Express.js` · `MongoDB` · `Next.js` · `Typescript`
 
 **[Project Two](https://github.com/zdev-xxr/InstantNews)** — Android app, shows latest news.
